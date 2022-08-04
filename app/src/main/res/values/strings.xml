@@ -24,5 +24,10 @@
     <string name="calculate">Calculate</string>
     <string name="close">Close</string>
     <string name="bank">Bank</string>
+    <string name="about">About</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Developed by : Chan Owen</string>
+    <string name="tnc">Terms and Conditions</string>
+    <string name="version">Version:</string>
 
 </resources>
